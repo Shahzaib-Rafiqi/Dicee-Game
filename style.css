@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(135, 135, 135);
+}
+h1{
+    font-family: 'Sacramento', cursive;
+    text-align: center; 
+    color: rgb(37, 235, 235);
+}
+p{  
+    font-family: 'Sacramento', cursive;
+    display: block;
+    position: relative;
+    left: 504px; 
+    font-size: 31px; 
+    bottom: -45px;
+    color: rgb(28, 18, 18);
+}
+.p2{
+    display: block;
+    position: relative;
+    left: 988px;
+    top: -356px;
+    color: rgb(28, 18, 18);
+}
+.img-1{
+    display: block;
+    position: relative;
+    bottom: -44px;
+    right: -397px;
+}
+.img-2{
+    display: block;
+    position: relative;
+    right: -907px;
+    top: -357px;
+}
